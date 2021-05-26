@@ -10,7 +10,7 @@
 - 프로그램에 때려 넣기
 - 컴퓨터 노동 시키기
 - 익스포트
-- https://teachablemachine.withgoogle.com/models/-POkAq0gZ/
+- 와샌즈.온라인.한국
 -------------------------------
 > 심심한데
 > simsimhande
