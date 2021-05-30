@@ -18,7 +18,7 @@
 - 프로그램에 때려 넣기
 - 컴퓨터 노동 시키기
 - 익스포트
-- 궁금하면 fishfish.kro.kr
+- 궁금하면 [fish](http://fishfish.kro.kr/)
 -------------------------------
 > * 심심한데
 > * simsimhande
