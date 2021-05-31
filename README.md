@@ -13,6 +13,7 @@
 > * 3D 남자와 여자, 2D 남자와 여자를 구분하는 주제
 > * 사용한 캐릭및 사람은 추천 또는 제작자의 취향
 > * 궁금하면 [fish](http://fishfish.kro.kr/)
+> * [원본](https://teachablemachine.withgoogle.com/models/FxYp6D02x/)
 -------------------------------
 -----------------------------
 # 5/20
